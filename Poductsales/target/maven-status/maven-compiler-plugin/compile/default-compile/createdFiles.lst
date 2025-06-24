@@ -1,0 +1,5 @@
+com\Ecommerce\Poductsales\user\Productdetails.class
+com\Ecommerce\Poductsales\user\Userdetails.class
+com\Ecommerce\Poductsales\user\Transactions.class
+com\Ecommerce\Poductsales\PoductsalesApplication.class
+com\Ecommerce\Poductsales\user\Paymentmethod.class
